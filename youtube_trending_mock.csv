@@ -1,0 +1,16 @@
+video_id,title,channel_title,category,views,likes,dislikes,comment_count,publish_time,country
+v1,AI Takes Over,TechGuru,Technology,1200000,45000,1200,8000,2025-09-01,India
+v2,Funny Dog Video,PetLovers,Comedy,800000,70000,200,6000,2025-09-03,India
+v3,Cooking Pasta Like a Pro,FoodieLife,Food,500000,25000,300,2000,2025-09-02,USA
+v4,New iPhone Review,GadgetWorld,Technology,1500000,80000,5000,15000,2025-09-01,USA
+v5,Street Dance Battle,DanceHub,Entertainment,300000,15000,100,900,2025-09-04,UK
+v6,Top 10 Cricket Moments,SportsWorld,Sports,950000,60000,1200,4000,2025-09-05,India
+v7,Climate Change Explained,EcoChannel,Education,400000,30000,400,3500,2025-09-06,UK
+v8,Best Coding Tips,CodeMaster,Technology,750000,55000,600,5000,2025-09-02,India
+v9,Travel Vlog Paris,Wanderlust,Travel,650000,35000,500,3000,2025-09-03,France
+v10,Gaming Highlights,GameZone,Gaming,1100000,72000,2000,9000,2025-09-04,USA
+v11,Motivational Speech,InspireNow,Education,200000,18000,150,1200,2025-09-05,India
+v12,Street Food Tour,FoodieLife,Food,850000,40000,700,5000,2025-09-06,India
+v13,SpaceX Rocket Launch,SpaceChannel,Science,1700000,95000,3000,20000,2025-09-01,USA
+v14,K-Pop Dance Practice,DanceHub,Entertainment,1300000,87000,2500,10000,2025-09-02,Korea
+v15,AI vs Humans Debate,TechGuru,Technology,900000,48000,1000,4000,2025-09-06,UK
